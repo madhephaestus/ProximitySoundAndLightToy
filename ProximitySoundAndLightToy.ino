@@ -1,7 +1,9 @@
-setup(){
+#import <ESP8266Audio.h>
+
+void setup(){
   
 }
 
-loop(){
+void loop(){
   
 }
