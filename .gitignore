@@ -2,3 +2,7 @@
 /.project
 spec.d
 .settings/
+core
+Release
+sloeber.ino.cpp
+libraries
